@@ -43,3 +43,17 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial-S
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+---
+
+## References & Further Reading
+
+This work builds upon and is in dialogue with the foundational research in the field of mechanistic interpretability. Key works that have informed our approach include:
+
+1.  Vaswani, A., et al. (2017). Attention is all you need. In *Advances in Neural Information Processing Systems*.
+2.  Radford, A., et al. (2019). Language models are unsupervised multitask learners. *OpenAI*.
+3.  Elhage, N., Nanda, N., et al. (2021). A mathematical framework for transformer circuits. *Transformer Circuits Pub*.
+4.  Olah, C., et al. (2020). Zoom in: An introduction to circuits. *Distill*.
+5.  Meng, K., et al. (2022). Locating and editing factual associations in GPT. In *Advances in Neural Information Processing Systems*.
+6.  Ji, Z., et al. (2023). Survey of hallucination in natural language generation. *ACM Computing Surveys*.
+7.  Nanda, N. (2022). TransformerLens. *GitHub*.
