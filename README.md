@@ -7,7 +7,7 @@
 
 The opaque nature of Large Language Models (LLMs) poses a significant barrier to understanding and mitigating their tendency to generate factually incorrect information, a phenomenon known as "hallucination." This paper presents a comprehensive methodology to anatomically dissect the internal mechanisms of a controlled falsehood. We provide a new, mechanistic framework for understanding hallucinations not as stochastic errors, but as a traceable, structural, and dynamic conflict within the neural network.
 
-[Read the Full Paper (PDF)](./main.pdf)
+[Read the Full Paper (PDF)](./makale.pdf)
 
 ---
 
